@@ -15,5 +15,6 @@ In this video, you'll learn:
 - Essential tips and best practices for managing your database schema
 
 [Watch the tutorial on YouTube]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/wALCw0F8e9M?si=YGshJxSnPofR36Si))
+https://youtu.be/wALCw0F8e9M?si=YGshJxSnPofR36Si
 
 Feel free to follow along with the video as you work on your own MySQL projects!
